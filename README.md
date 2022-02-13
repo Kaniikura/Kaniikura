@@ -6,8 +6,6 @@
 
 - ❤️ I love cloud-native technologies and machine learning.
 
-
-
 **Languages and Tools:**  
 <code><a href="https://www.python.org/"><img height="20" src="https://img.icons8.com/color/48/000000/python.png"></a></code>
 <code><a href="https://go.dev/"><img height="20" src="https://img.icons8.com/color/48/000000/golang.png"></a></code>
@@ -17,6 +15,8 @@
 <code><a href="https://www.tensorflow.org/"><img height="20" src="https://img.icons8.com/color/48/000000/tensorflow.png"></a></code>
 <code><a href="https://pytorch.org/"><img height="20" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></a></code>
 <code><a href="https://www.terraform.io/"><img height="20" src="https://img.icons8.com/color/48/000000/terraform.png"></a></code>
+<code><a href="https://kafka.apache.org/"><img height="20" src="https://user-images.githubusercontent.com/32826608/153747310-d6e3afc4-c317-4a37-b318-e2f8380ab048.png"></a></code>
+<code><a href="https://airflow.apache.org/"><img height="20" src="https://cwiki.apache.org/confluence/download/attachments/145723561/airflow_64x64_emoji_transparent.png?api=v2"></a></code>
 <code><a href="https://kubernetes.io/"><img height="20" src="https://img.icons8.com/color/48/000000/kubernetes.png"></a></code>
 <code><a href="https://aws.amazon.com/"><img height="20" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"></a></code>
 <code><a href="https://cloud.google.com/"><img height="20" src="https://img.icons8.com/color/48/000000/google-cloud.png"></a></code>
