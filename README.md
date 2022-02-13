@@ -11,7 +11,7 @@
 **Languages and Tools:**  
 <code><a href="https://www.python.org/"><img height="20" src="https://img.icons8.com/color/48/000000/python.png"></a></code>
 <code><a href="https://go.dev/"><img height="20" src="https://img.icons8.com/color/48/000000/golang.png"></a></code>
-<code><a href=""><img height="20" src="https://img.icons8.com/color/48/000000/javascript--v1.png"></a></code>
+<code><a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/"><img height="20" src="https://img.icons8.com/color/48/000000/javascript--v1.png"></a></code>
 <code><a href="https://www.djangoproject.com/"><img height="20" src="https://img.icons8.com/color/48/000000/django.png"></a></code>
 <code><a href="https://reactjs.org/"><img height="20" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"></a></code>
 <code><a href="https://www.tensorflow.org/"><img height="20" src="https://img.icons8.com/color/48/000000/tensorflow.png"></a></code>
