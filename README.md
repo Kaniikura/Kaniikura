@@ -12,6 +12,7 @@
 <code><a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/"><img height="20" src="https://img.icons8.com/color/48/000000/javascript--v1.png"></a></code>
 <code><a href="https://www.djangoproject.com/"><img height="20" src="https://img.icons8.com/color/48/000000/django.png"></a></code>
 <code><a href="https://reactjs.org/"><img height="20" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"></a></code>
+<code><a href="https://scikit-learn.org/"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png"></a></code>
 <code><a href="https://www.tensorflow.org/"><img height="20" src="https://img.icons8.com/color/48/000000/tensorflow.png"></a></code>
 <code><a href="https://pytorch.org/"><img height="20" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></a></code>
 <code><a href="https://www.terraform.io/"><img height="20" src="https://img.icons8.com/color/48/000000/terraform.png"></a></code>
