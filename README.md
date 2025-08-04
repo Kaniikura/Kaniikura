@@ -7,8 +7,9 @@
 - ❤️ I love cloud-native technologies and machine learning.
 
 **Languages and Tools:**  
-<code><a href="https://www.python.org/"><img height="20" src="https://img.icons8.com/color/48/000000/python.png"></a></code>
+<code><a href="https://www.typescriptlang.org/"><img height="20" src="https://img.icons8.com/color/48/typescript.png"></a></code>
 <code><a href="https://go.dev/"><img height="20" src="https://img.icons8.com/color/48/000000/golang.png"></a></code>
+<code><a href="https://www.python.org/"><img height="20" src="https://img.icons8.com/color/48/000000/python.png"></a></code>
 <code><a href="https://www.terraform.io/"><img height="20" src="https://img.icons8.com/color/48/000000/terraform.png"></a></code>
 
 **Platforms and Ecosystems:**  
