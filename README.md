@@ -1,6 +1,6 @@
 **About me**
 
-- :cloud: Cloud Engineer at [Softbank](https://www.softbank.jp)
+- :cloud: Cloud Engineer at [Preferred Networks](https://www.preferred.jp)
 
 - 🎓 In my master's degree, I studied visual anomaly detection for images.
 
