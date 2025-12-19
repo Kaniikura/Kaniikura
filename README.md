@@ -1,9 +1,4 @@
 **About me**
-
-- :cloud: Engineer at [Preferred Networks](https://www.preferred.jp)
-
-- 🎓 In my master's degree, I studied visual anomaly detection for images.
-
 - ❤️ I love cloud-native technologies and machine learning.
 
 **Languages and Tools:**  
